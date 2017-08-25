@@ -7,12 +7,10 @@ Do not hesitate to contribute!
 
 ## Content
 
-  _**Author**: _
-  _**Reference:** _
-
   > Every piece of knowledge must have a single, unambiguous, and authoritative representation within a system.
 
   _**Author:** Andy Hunt and Dave Thomas_
+
   _**Reference:** The Pragmatic Programmer book_
 
   > Procedural code gets information then makes decisions. Object-oriented code tells objects to do things.
