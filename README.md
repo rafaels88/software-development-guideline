@@ -76,6 +76,17 @@ Do not hesitate to contribute!
 
   _**Reference:** [Object Oriented Frameworks: a survey on methodological issues](https://www.researchgate.net/publication/2238535_Object-Oriented_Frameworks) and [On Inversion of Control](https://web.archive.org/web/20040202120126/http://www.betaversion.org/~stefano/linotype/news/38/)_
 
+  > Adding possibly redundant code "just in case"  only contributes to the software's complexity -
+  > the single worst obstacle to software quality in general, and to reliability in particular. 
+  > The result of such blind checking is simply to introduce more software, hence more sources of things that
+  > could go wrong at execution time, hence the need for more checks, and so on ad infinitum.
+  > Such blind and often redundant checking causes much of the complexity and unwieldiness that often
+  > characterizes software.
+
+  _**Author**: Bertrand Meyer_
+
+  _**Reference:** [Applying "Design by Contract"](http://se.ethz.ch/%7Emeyer/publications/computer/contract.pdf)_
+
 
 ## Contributing
 
